@@ -376,7 +376,7 @@ class FamilyFinanceManager:
         messagebox.showinfo("详细统计", msg)
 
     def show_about(self):
-        messagebox.showinfo("关于", "家庭收入管理系统\n作者：AI助手\n版本：2.0")
+        messagebox.showinfo("关于", "家庭收入管理系统\n作者：伍德强（AI助手协助完成）\n版本：2.0")
 
     def clear_inputs(self):
         """清空输入框"""
